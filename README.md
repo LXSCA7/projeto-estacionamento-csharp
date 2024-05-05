@@ -8,8 +8,14 @@ O desafio tem uma classe `Estacionamento`, onde nela temos as funções para adi
 
 ## Updates adicionados além do que foi pedido originalmente no desafio:
 
+- Atualização para o NET 8.0
+    - O código foi originalmente escrito em .NET 6.0 
+
 -  Verificação de carro estacionado para remover um veículo.  
     - Originalmente, não era feita a verificação para saber se havia algum carro estacionado quando a função de remover um veículo no código, ou seja, quando não haviam veículos e o usuário inseria '2', ele pedia para inserir a placa mesmo se não tivesse nenhum carro registrado.
+
+## Uptades futuros:
+- Verificação de placas válidas com padrão 'ABC-1234' ou Mercosul: 'RIO-2A24'
 
 ---
 
