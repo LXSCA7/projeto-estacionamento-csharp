@@ -6,7 +6,7 @@ O desafio criado pela DIO é um sistema de estacionamento, onde utilizaremos par
 
 O desafio tem uma classe `Estacionamento`, onde nela temos as funções para adicionar o veículo, listar os veículos, remover um veículo e encerrar o programa. Todas as funções estão dentro do arquivo da classe `Estacionamento`.
 
-## Updates adicionados além do que foi pedido originalmente no desafio:
+## Updates adicionados:
 
 - Atualização para o NET 8.0
     - O código foi originalmente escrito em .NET 6.0 
